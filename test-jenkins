@@ -1,1 +1,4 @@
 test clone code from jenkins hp-local
+
+fix gnutls_handshake() failed: Error in the pull function.
+  apt-get -y install build-essential nghttp2 libnghttp2-dev libssl-dev
